@@ -4,4 +4,4 @@
 매일 보통 오전 10시~오후 12시까지 진행하며
 여유가 있으면 추가적으로 합니다.
 
-문제 출저: https://www.acmicpc.net/workbook/view/460
+문제 출저: https://www.acmicpc.net/workbook/view/460 (2022.02.12~)
