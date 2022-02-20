@@ -5,3 +5,6 @@
 여유가 있으면 추가적으로 합니다.
 
 문제 출저: https://www.acmicpc.net/workbook/view/460 (2022.02.12~)
+그리디 알고리즘(2022.02.19~)
+https://www.acmicpc.net/workbook/view/7320
+https://www.acmicpc.net/problemset?sort=ac_desc&algo=33
