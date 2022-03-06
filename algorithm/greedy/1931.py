@@ -9,10 +9,11 @@ n = int(input())
 time_list = []
 for i in range(n):
     time_list.append(list(map(int, sys.stdin.readline().split())))
-time_list.sort(key = lambda x : (x[1], x[0])) # 끝나는 시간 우선 정렬
+time_list.sort(key = lambda x : (x[1], x[0])) # 끝나는 시간 우선 정렬후 시작 시간순으로 정렬(작은순, 오름차순)
 
 count = 1
-for _ in range(1, n):
+initial_e = time_list[0][1] #가장 빨리 끝나는 시간에서 빠른 시작시간
+for i in range(n-1):
     start, end = map(int, input().split())
     if initial_e <= start:
         result += 1
