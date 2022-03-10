@@ -11,3 +11,4 @@ for i in range(n):
 print(result)
 
 # b 리스트 재배열  X 조건 => b의 최대값을 뽑아 곱해줌
+# >>>>>>>>>>>>
