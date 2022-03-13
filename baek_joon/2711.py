@@ -16,4 +16,6 @@ n = int(input())
 for _ in range(n):
     remove, s = input().split()
     remove = int(remove)
-    print(s[:remove-1],s[remove:], sep='')
+    # 출력끼리 붙여 쓰는 방법 2가지
+    print(s[:remove-1],s[remove:], sep='') # sep, end 옵션 sep 기본이 " "이기 때문
+    # print(s[:remove-1]+s[remove:])
