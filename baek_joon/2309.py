@@ -1,5 +1,6 @@
 # 2022_03_27_1
 # 일곱 난쟁이
+# 출력 결과 오름차순
 # 9C7 = 9C2 = 9*8/2*1 = 36가지, 랜덤?
 import random
 num = [int(input()) for _ in range(9)]
