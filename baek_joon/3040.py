@@ -18,7 +18,6 @@ for i in range(len(hat)-1):
         if cal == 100:
             fake1 = hat[i]
             fake2 = hat[g]
-            print(fake1, fake2)
             break
             
 hat.remove(fake1)
