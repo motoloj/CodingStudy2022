@@ -16,7 +16,7 @@ for _ in range(int(input())):
         print(0)
 
         
-
+#  --------------------------------------------------------------------------
 for _ in range(int(input())):
     x1, y1, r1, x2, y2, r2 = list(map(int, input().split()))
     
